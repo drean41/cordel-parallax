@@ -1,6 +1,6 @@
 # Sobre Projeto:
 
-Site com uma poesia Cordel Moderno por Milton Duarte usando efeito parallax com CSS
+Site com uma poesia Cordel Moderno por Milton Duarte usando efeito parallax com CSS. Feito no curso de HTML e CSS pelo Curso em Vídeo.
 
 [Para visualizar o projeto com github pages](https://drean41.github.io/cordel-parallax/)
 
